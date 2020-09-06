@@ -43,3 +43,6 @@ declare module '@mdx-js/react' {
   // eslint-disable-next-line react/prefer-stateless-function
   export class MDXProvider extends React.Component<MDXProviderProps> {}
 }
+
+declare module '@theme-ui/prism';
+declare module '@theme-ui/typography';
