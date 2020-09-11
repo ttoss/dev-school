@@ -10,9 +10,10 @@
 
 - **Que tenham proatividade e vontade para tentar fazer as tarefas propostas durante as semanas**.
 
-As atividades serão parecidas com o dia a dia de um desenvolvedor que trabalha com a gente. Definiremos um escopo e o prazo da entrega.
-
 - **Que postem perguntas sobre quaisquer dúvidas.**
+
+A criação deste material não será feita de uma única vez, mas sim por iterações em função das dúvidas dos desenvolvedores. Por exemplo, vamos criar uma primeira versão básica de como fazer o primeiro componente usando React. Se surgir alguma dúvida, o material será alterado de tal maneira que a dúvida seja sanada.
+
 - **Que ajudem os outros participantes.**
 - **Proponham alterações deste material.**
 
@@ -24,4 +25,4 @@ Porém, vamos incentivar fortemente que vocês se familiarizem com o inglês. Va
 
 ## Quem está escrevendo?
 
-Agora vou usar um pouco a primeira pessoa. Meu nome é Pedro e eu sou sócio e co-fundador da [Triângulos Tecnologia](https://triangulostecnologia.com) e vou acompanhá-los nesta jornada. Eu sou desenvolvedor web _fullstack_, ou seja, eu trabalho desde o projeto do banco de dados, arquitetura na _cloud_ até a criação de aplicativos. Atualmente, eu uso muito o Twitter, então vocês podem encontrar o [meu perfil](https://twitter.com/arantespp) por lá, caso queiram entrar em contato.
+Agora vou usar um pouco a primeira pessoa. Meu nome é Pedro e eu sou sócio e co-fundador da [Triângulos Tecnologia](https://triangulostecnologia.com) e vou acompanhá-los nesta jornada. Eu sou desenvolvedor web _fullstack_, ou seja, eu trabalho desde o projeto do banco de dados, arquitetura na _cloud_ até a criação de aplicativos. Atualmente, eu uso muito o Twitter, então vocês podem encontrar o [meu perfil](https://twitter.com/arantespp) por lá :smile:

@@ -16,6 +16,9 @@ const theme = {
     primary: '#000',
   },
   styles: {
+    h1: {
+      textAlign: ['center'],
+    },
     pre: {
       ...prismTheme,
     },

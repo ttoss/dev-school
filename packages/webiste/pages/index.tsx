@@ -1,9 +1,9 @@
 import * as React from 'react';
 
-import { Heading } from 'theme-ui';
+import { Styled } from 'theme-ui';
 
 const Index = () => {
-  return <Heading as="h1">Welcome to Dev School</Heading>;
+  return <Styled.h1>Welcome to Dev School</Styled.h1>;
 };
 
 export default Index;

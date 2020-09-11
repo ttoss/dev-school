@@ -1,5 +1,4 @@
 /** @jsx jsx */
-
 import { Container, jsx } from 'theme-ui';
 
 import Footer from './Footer';

@@ -1,11 +1,12 @@
 {
-  "name": "webiste",
+  "name": "dev-school-webiste",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "build": "rm -rf build && next build && next export",
+    "start": "next start",
+    "deploy": "carlin deploy static-app"
   },
   "dependencies": {
     "@mdx-js/loader": "^1.6.16",
