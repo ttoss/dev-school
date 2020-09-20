@@ -16,6 +16,7 @@ module.exports = {
     'react/jsx-wrap-multilines': 'off', // This rule conflicts with prettier/prettier
     'react/require-default-props': 'off', // Problems with function components
     'react-hooks/rules-of-hooks': 'error',
+    'react/react-in-jsx-scope': 'off',
     'relay/graphql-syntax': 'error',
     'relay/compat-uses-vars': 'warn',
     'relay/graphql-naming': 'error',

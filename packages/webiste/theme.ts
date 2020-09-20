@@ -19,6 +19,10 @@ const theme = {
     h1: {
       textAlign: ['center'],
     },
+    inlineCode: {
+      paddingX: 1,
+      ...prismTheme,
+    },
     pre: {
       ...prismTheme,
     },

@@ -24,4 +24,4 @@ Para confirmar se tudo deu certo, confira se existe o seguinte diretório a part
 dev-school/packages/webiste/pages/paths/git.md
 ```
 
-Se existir, parabéns, você executou com sucesso o seu primeiro comando do Git :tada::tada:
+Se existir, parabéns, `adasd` você executou com sucesso o seu primeiro comando do Git :tada::tada:
