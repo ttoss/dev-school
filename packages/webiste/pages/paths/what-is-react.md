@@ -13,7 +13,7 @@
 
 2. Para verificar se o [Node.js](https://nodejs.org/en/) foi instalado com sucesso, execute o comando `node -v` no seu terminal. Se você viu a versão, quer dizer que foi instalado com sucesso.
 
-3. Instale um outro gerenciador de pacotes chamado [Yarn v1](https://classic.yarnpkg.com/lang/en/) seguindo [este passo a passo](https://classic.yarnpkg.com/en/docs/install). Neste projeto, usamos uma estutura de pastas que necessita do [Yarn v1](https://classic.yarnpkg.com/lang/en/) para funcionar. Vamos falar mais disso em outro momento :wink:
+3. Instale um outro gerenciador de pacotes chamado [Yarn v1](https://classic.yarnpkg.com/lang/en/) seguindo [este passo a passo](https://classic.yarnpkg.com/en/docs/install). Neste projeto, usamos uma estrutura de pastas que necessita do [Yarn v1](https://classic.yarnpkg.com/lang/en/) para funcionar. Vamos falar mais disso em outro momento :wink:
 
 4. Faça o clone deste repositório seguindo [este passo a passo do git clone](/paths/git).
 
