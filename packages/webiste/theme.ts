@@ -13,7 +13,7 @@ const theme = {
   colors: {
     text: '#24292e',
     background: '#fff',
-    primary: '#000',
+    primary: '#fff',
   },
   styles: {
     h1: {
