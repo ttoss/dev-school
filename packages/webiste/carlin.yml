@@ -1,5 +1,7 @@
 aliases:
   - devschool.ttoss.dev
 buildFolder: out
+scp:
+  - "default-src: https:; object-src 'none"
 cloudfront: true
 stackName: DevSchoolWebsite
